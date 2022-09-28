@@ -1,6 +1,4 @@
-<video width="320" height="240" controls>
-  <source src="hello!.mp4">
-</video>
+<video src="hello!.mp4" autoplay loop></video>
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">I am student, learner and programmer from India</h3>
