@@ -1,4 +1,4 @@
-<img alt="coding" src="/Hello.png">
+<img alt="coding" width="1200" src="/Hello.jpg">
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">I am student, learner and programmer from India</h3>
