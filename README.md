@@ -1,4 +1,4 @@
-<img alt="coding" width="800" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img alt="coding" width="1200" height="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">I am student, learner and programmer from India</h3>
