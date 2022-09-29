@@ -1,9 +1,7 @@
-<img alt="coding" width="1200" src="/Hello.jpg">
+<img alt="coding" width="800" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">I am student, learner and programmer from India</h3>
-
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvishalrj&label=Profile%20views&color=0e75b6&style=flat" alt="kvishalrj" /> </p>
 
