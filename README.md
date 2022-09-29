@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/HOh1tBgpWqtvC9GMD2" width="400" align="center" ></iframe>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/HOh1tBgpWqtvC9GMD2/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">I am student, learner and programmer from India</h3>
