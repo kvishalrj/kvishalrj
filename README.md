@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/HOh1tBgpWqtvC9GMD2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hello-hi-coucou-HOh1tBgpWqtvC9GMD2">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/HOh1tBgpWqtvC9GMD2" width="400" align="center" ></iframe>
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">I am student, learner and programmer from India</h3>
