@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kvishalrj2020@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ars3R84J7yJnVC5KqxxSWQakSDOG1eNJ/view?usp=sharing](https://drive.google.com/file/d/1Ars3R84J7yJnVC5KqxxSWQakSDOG1eNJ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1WZn0RmTDhGkFjeU_aJECL2npm1x_KeI7?usp=share_link](https://drive.google.com/drive/folders/1WZn0RmTDhGkFjeU_aJECL2npm1x_KeI7?usp=share_link)
 
 - ⚡ Fun fact **I am interesting.**
 
