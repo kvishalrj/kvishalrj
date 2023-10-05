@@ -23,6 +23,8 @@
 
 - ⚡ Fun fact **I am interesting**
 
+[![An image of @kvishalrj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kvishalrj)](https://holopin.io/@kvishalrj)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kvishalrj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kvishalrj" height="30" width="40" /></a>
