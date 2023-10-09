@@ -1,3 +1,5 @@
+[![An image of @kvishalrj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kvishalrj)](https://holopin.io/@kvishalrj)
+
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/HOh1tBgpWqtvC9GMD2/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
@@ -22,8 +24,6 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1WZn0RmTDhGkFjeU_aJECL2npm1x_KeI7?usp=sharing](https://drive.google.com/drive/folders/1WZn0RmTDhGkFjeU_aJECL2npm1x_KeI7?usp=sharing)
 
 - ⚡ Fun fact **I am interesting**
-
-[![An image of @kvishalrj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kvishalrj)](https://holopin.io/@kvishalrj)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
