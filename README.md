@@ -1,3 +1,5 @@
+<div><a href="https://x.com/GrahamTheDev"><img src="readme/twitter.svg" width="19.5%" height=120 alt="Twitter GrahamTheDev"></a><a href="https://www.linkedin.com/in/grahamthedev/"><img src="readme/linkedin.svg" width="19.5%" height=120 alt="linkedIn Graham R"></a><a href="https://grahamthe.dev"><img src="readme/logo.svg" width="22%" height=120 alt="Graham's Personal Site"></a><a href="https://www.youtube.com/@grahamthedev"><img src="readme/youtube.svg" width="19.5%" height=120 alt="YouTube GrahamTheDev"></a><a href="https://twitch.tv/GrahamTheDevRel"><img src="readme/twitch.svg" width="19.5%" height=120 alt="Twitch GrahamTheDevRel"></a></div>
+
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/HOh1tBgpWqtvC9GMD2/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
