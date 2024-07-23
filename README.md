@@ -1,9 +1,9 @@
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/HOh1tBgpWqtvC9GMD2/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">Student | Learner | Developer </h3>
 
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/HOh1tBgpWqtvC9GMD2/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvishalrj&label=Profile%20views&color=0e75b6&style=flat" alt="kvishalrj" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kvishalrj" target="blank"><img src="https://img.shields.io/twitter/follow/kvishalrj?logo=twitter&style=for-the-badge" alt="kvishalrj" /></a> </p>
