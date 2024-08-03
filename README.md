@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Software Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kvishalrj?tab=repositories](https://github.com/kvishalrj?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://shorturl.at/GJb3Q](https://shorturl.at/GJb3Q)
 
 - 💬 Ask me about **Python, Django, SQL, Web Tech**
 
