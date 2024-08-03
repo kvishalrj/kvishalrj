@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/kvishalrj" target="blank"><img src="https://img.shields.io/twitter/follow/kvishalrj?logo=twitter&style=for-the-badge" alt="kvishalrj" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Python/Django**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Flask**
 
 - 👯 I’m looking to collaborate on **Python projects**
 
