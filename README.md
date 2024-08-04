@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">Student | Learner | Developer</h3>
+<h3 align="center" mb-4>Student | Learner | Developer</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/HOh1tBgpWqtvC9GMD2/giphy.gif">
 
