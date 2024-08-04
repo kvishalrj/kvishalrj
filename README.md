@@ -2,7 +2,7 @@
 <h3 align="center">Student | Learner | Developer</h3>
 
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/HOh1tBgpWqtvC9GMD2/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/HOh1tBgpWqtvC9GMD2/giphy.gif">
 
 - 🔭 I’m currently working on [QTrip](https://github.com/kvishalrj/QTrip)
 
