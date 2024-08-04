@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvishalrj&label=Profile%20views&color=0e75b6&style=flat" alt="kvishalrj" /> </p>
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/HOh1tBgpWqtvC9GMD2/giphy.gif">
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/HOh1tBgpWqtvC9GMD2/giphy.gif">
 
 - 🔭 I’m currently working on [QTrip](https://github.com/kvishalrj/QTrip)
 
