@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [QTrip](https://github.com/kvishalrj/QTrip)
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Api Development**
 
-- 👯 I’m looking to collaborate on **Python/Django projects**
+- 👯 I’m looking to collaborate on **Python/Django and Selenium projects**
 
-- 🤝 I’m looking for help with **Software Development**
+- 🤝 I’m looking for help with **Software Development and Testing**
 
 - 👨‍💻 All of my projects are available at [https://shorturl.at/GJb3Q](https://shorturl.at/GJb3Q)
 
-- 💬 Ask me about **Python, Django, SQL, Web Tech**
+- 💬 Ask me about **Python, Django, Selenium, SQL, Web Tech**
 
 - 📫 How to reach me **kvishalrj2020@gmail.com**
 
