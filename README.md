@@ -5,9 +5,9 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/HOh1tBgpWqtvC9GMD2/giphy.gif">
 
-- 🔭 I’m currently working on [QTrip](https://github.com/kvishalrj/QTrip)
+- 🔭 I’m currently working on [QTrip_QA](https://github.com/kvishalrj/QTrip_QA)
 
-- 🌱 I’m currently learning **Api Development**
+- 🌱 I’m currently learning **Api Development and Testing**
 
 - 👯 I’m looking to collaborate on **Python/Django and Selenium projects**
 
