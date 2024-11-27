@@ -9,17 +9,15 @@
 
 - 🌱 I’m currently learning **Api Development and Testing**
 
-- 👯 I’m looking to collaborate on **Python/Django and Selenium projects**
+- 👯 I’m looking to collaborate on **Python/Java and Selenium projects**
 
 - 🤝 I’m looking for help with **Software Development and Testing**
 
 - 👨‍💻 All of my projects are available at [https://shorturl.at/GJb3Q](https://shorturl.at/GJb3Q)
 
-- 💬 Ask me about **Python, Django, Selenium, SQL, Web Tech**
+- 💬 Ask me about **Python, Java, Selenium, SQL, Web Tech**
 
 - 📫 How to reach me **kvishalrj2020@gmail.com**
-
-- 📄 Know about my experiences [https://rb.gy/g3787e](https://rb.gy/g3787e)
 
 - ⚡ Fun fact **Explore me then only you will get to know**
 
