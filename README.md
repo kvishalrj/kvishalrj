@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python, Java, Selenium, SQL, Web Tech**
 
-- 📫 How to reach me **kvishalrj2020@gmail.com**
+- 💻 Know more about me [Resume](https://shorturl.at/XQJPl)
 
 - ⚡ Fun fact **Explore me then only you will get to know**
 
