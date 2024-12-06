@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [QTrip_QA](https://github.com/kvishalrj/QTrip_QA)
 
-- 🌱 I’m currently learning **Api Development and Testing**
+- 🌱 I’m currently learning **Android App Testing**
 
 - 👯 I’m looking to collaborate on **Python/Java and Selenium projects**
 
-- 🤝 I’m looking for help with **Software Development and Testing**
+- 🤝 I’m looking for help with **Software Testing**
 
 - 👨‍💻 All of my projects are available at [https://shorturl.at/GJb3Q](https://shorturl.at/GJb3Q)
 
