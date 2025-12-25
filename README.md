@@ -7,19 +7,19 @@
 
 - 🔭 I’m currently working on [QTrip_QA](https://github.com/kvishalrj/QTrip_QA)
 
-- 🌱 I’m currently learning **Android App Testing**
+-  🔭 I’m currently working on **backend & API automation projects** using Java, Rest Assured, and TestNG, including real-world payout and financial workflow validations
 
-- 👯 I’m looking to collaborate on **Python/Java and Selenium projects**
+-  🌱 I’m currently deepening my skills in **Android App Testing and end-to-end mobile + backend validation**
 
-- 🤝 I’m looking for help with **Software Testing**
+- 👯 I’m looking to collaborate on **Java/Python automation frameworks, API testing, and scalable QA projects**
 
-- 👨‍💻 All of my projects are available at [https://shorturl.at/GJb3Q](https://shorturl.at/GJb3Q)
+- 🤝 I’m open to discussions and collaboration around **Software Testing, Test Automation, CI/CD, and Backend Quality**
 
-- 💬 Ask me about **Python, Java, Selenium, SQL, Web Tech**
+- 💬 Ask me about **Java, Python, Rest Assured, Selenium, API Testing, SQL/DynamoDB, and Automation Framework Design**
 
-- 💻 Know more about me [Resume](https://shorturl.at/XQJPl)
+- 💻 Know more about me 👉 [Resume](https://drive.google.com/drive/folders/1LrpzEo6LLHA7y929PeiJsnSs3px1ibLy?usp=sharing)
 
-- ⚡ Fun fact **Explore me then only you will get to know**
+- ⚡ Fun fact: **I enjoy breaking complex systems before users do—and fixing the gaps with clean automation**
 
 [![An image of @kvishalrj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kvishalrj)](https://holopin.io/@kvishalrj)
 
