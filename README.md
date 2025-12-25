@@ -5,8 +5,6 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/HOh1tBgpWqtvC9GMD2/giphy.gif">
 
-- 🔭 I’m currently working on [QTrip_QA](https://github.com/kvishalrj/QTrip_QA)
-
 -  🔭 I’m currently working on **backend & API automation projects** using Java, Rest Assured, and TestNG, including real-world payout and financial workflow validations
 
 -  🌱 I’m currently deepening my skills in **Android App Testing and end-to-end mobile + backend validation**
